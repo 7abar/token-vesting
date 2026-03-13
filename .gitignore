@@ -1,10 +1,1 @@
-.DS_Store
-node_modules/
-out/
-cache/
-.env
-.env.*
-*.local
-dist/
-coverage/
-lcov.info
+# compiled artifacts\nartifacts/\ntypechain-types/\n
