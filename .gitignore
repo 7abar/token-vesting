@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+out/
+cache/
+.env
+.env.*
+*.local
+dist/
+coverage/
+lcov.info
